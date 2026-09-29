@@ -1,0 +1,10 @@
+credentials.json
+token.json
+emails.json
+classified_emails.json
+emails_labeled.csv
+exported_output.csv
+__pycache__/
+*.pyc
+scratch_*.py
+test_decider.py
